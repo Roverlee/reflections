@@ -1,0 +1,45 @@
+diff helps you pinpoint a discrete amount of text so you don’t have to look through everything.
+diff -u is even easier to read, called unified difference? format
+they also said shorter lines of code is better to help find things since diff can’t always point out the line of code that is different..
+also read about reflection — and the process for self-reflection — “we don’t learn from experience, we learn by reflecting on experience”… excellent point. wish i had reflected more. i would say i didnt have time to reflect or realize the importance of reflections with learning. though I’ve realized later things when i have had time and distance to think about them. though sometimes i don’t!
+and one of the points was time and space is important for reflection! :)
+storytelling as reflection…
+“When we get into the habit of recording our stories, we can look at them again, attending to the meanings we have build into them and attending, as well, to our strategies of narrative description.”
+which ties into the usefulness of having a journal where you are writing your story and then looking at it again and bringing something new, even a new insight.. “Aristotle’s use of narrative as the natural framework for representing the world of action”. Mattingly also elaborates on the “everyday sense-making role of storytelling,” that stories reveal the way ideas look in action. Narrative provides explanation.  Our motivation for telling stories is to wrest meaning from experiences.”
+Janice McDrury and Maxine Alterio (2002), two educators from New Zealand have written a book called Learning through Storytelling in which they outline their theory of storytelling as an effective learning tool. They have linked the art of storytelling with reflective learning processes supported by the literature on both reflection and learning as well as making meaning through storytelling.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+you can look back at what your common mistakes are…
+you can see how far you have come or not..
+you can keep track of how long its been since you worked on something…
+XXXXXXX
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+its a more thoughtful user oriented way of saving, it makes sure commits are logical and useful and also keeps you from working too long perhaps even without reflecting on your purpose and progress!
+
+
+----------Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+text files often are one unit (unless its about segments of one unit like acts or chapters) but code has a lot of interlocking files , for js, for html, for css. and they may change in relation to one another so its important to be able to track those inter changes :)
+
+  These files work together as one, they are interlocking in functions and all play a part in the game.
+  Something like google docs presume that the one doc works on its own as an entity, though
+  that may not be the case if someone makes each doc a chapter of a book, or a poem, etc.
+
+
+-------How can you use the commands git log and git diff to view the history of files?
+git log can show me the whole file and commits made at different times, i can then compare any two
+commits at different times by using git diff to see how many changes in lines were made
+in the files by looking at the number of green and red line changes..
+
+
+-------How might using version control make you more confident to make changes that could break something?
+though i dont feel confident using that at all, at least i know its possible to review and find a change and then ? unmake it. not sure
+what you do to fix the mess! yet!
+
+
+---------Now that you have your workspace set up, what do you want to try using Git for?
+to track my coding progress
+to show others i have some type of coding ability, Ie since some places ask what your git handle is...
+to write some moderately entertaining or informative code!
+to interact with some nice coders!
