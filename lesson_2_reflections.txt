@@ -1,0 +1,8 @@
+-----How can you use the staging area to make sure you have one commit per logical change?
+
+looks like with git reset hard I erased some of my earlier changes to this Id not committed ! :()
+
+can use git diff to compare staging area to the working directory, and then use git diff --staged
+to compare the staging area and the repository,
+and so have a good idea of what I want to commit makes sense
+and is a logical commit, ie isn't too big and groups one type of change together etc
