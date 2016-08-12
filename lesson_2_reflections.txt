@@ -14,7 +14,7 @@ when I want to try something different that makes sense, like a spanish language
 change the data set to try something different, but not entirely sure how different it would be to be a branch!
 
 
-How do the diagrams help you visualize the branch structure?
+----How do the diagrams help you visualize the branch structure?
 
 the word branch does bring up the image of a tree, in this case there is a main "master" trunk,
 and potentially alot of other branches. it was interesting to hear how people use
@@ -24,3 +24,11 @@ to allow variety if as a user you get sick of working on a particular thing. it 
 of commits that help you keep your changes up to date and have you think about what changes you
 are making and whether or not you want to make them. but also allowing for dead ends, or just
 fickleness in what you feel like working on.
+
+---What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the merger leads to a complete picture with all the changes in both branches. it also
+creates the issue of having to find the parent of a commit to see what the changes are
+to that commit, since otherwise that commit can include alot of stuff now reflecting changes
+made in the merged branch. so git show is used instead of git diff, so that the differences
+only reflect that commits parent.
