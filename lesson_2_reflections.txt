@@ -6,3 +6,9 @@ can use git diff to compare staging area to the working directory, and then use 
 to compare the staging area and the repository,
 and so have a good idea of what I want to commit makes sense
 and is a logical commit, ie isn't too big and groups one type of change together etc
+
+
+------What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when I want to try something different that makes sense, like a spanish language version, or perhaps
+change the data set to try something different, but not entirely sure how different it would be to be a branch!
