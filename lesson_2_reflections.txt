@@ -12,3 +12,15 @@ and is a logical commit, ie isn't too big and groups one type of change together
 
 when I want to try something different that makes sense, like a spanish language version, or perhaps
 change the data set to try something different, but not entirely sure how different it would be to be a branch!
+
+
+How do the diagrams help you visualize the branch structure?
+
+the word branch does bring up the image of a tree, in this case there is a main "master" trunk,
+and potentially alot of other branches. it was interesting to hear how people use
+branches, ie so different people can work on different issues, so different issues can be separate
+from one another, ie a bug fix versus a new feature, and that they also can be used just
+to allow variety if as a user you get sick of working on a particular thing. it goes well with the idea
+of commits that help you keep your changes up to date and have you think about what changes you
+are making and whether or not you want to make them. but also allowing for dead ends, or just
+fickleness in what you feel like working on.
