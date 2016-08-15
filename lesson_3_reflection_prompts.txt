@@ -8,7 +8,10 @@ facilitates work by more than one person and or work on more than one computer
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+  hmm. the remote can be used for shared work. so I might want to make sure my
+  work is ready to be shared and used within a larger body of work.
+  I might also want to pull only some changes from this shared body of work that
+  Im interested in working on. so helps to keep things orderly.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
