@@ -32,3 +32,10 @@ creates the issue of having to find the parent of a commit to see what the chang
 to that commit, since otherwise that commit can include alot of stuff now reflecting changes
 made in the merged branch. so git show is used instead of git diff, so that the differences
 only reflect that commits parent.
+
+
+--What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+the pros are that it helps make sure your merge has the code you want..
+the cons are that you have to spend some time looking at the code and the contributions,
+which if things aren't clear could be a time suck...
