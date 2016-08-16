@@ -28,7 +28,17 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+  They mentioned the idea you can then download the latest version of the remote
+  without changing your local master, so you can compare the two versions
+  at your leisure and then merge them when you have examined them and resolved
+  any conflicts, if you want to.
+  having both the remote and the master have the last known shared copy
+  also ensures either can see the difference with whatever new is being
+  pushed or pulled, so it can provide the coder with the differences between
+  them clearly, which is helpful if you are syncing often.
+  but, if you aren't syncing often, wouldnt it be inconvenient to go through
+  all those conflicts between the origin/master local and the remote, say?
+  
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
