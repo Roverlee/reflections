@@ -38,12 +38,23 @@ stored locally?
   them clearly, which is helpful if you are syncing often.
   but, if you aren't syncing often, wouldnt it be inconvenient to go through
   all those conflicts between the origin/master local and the remote, say?
-  
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    hmm. i suppose posting the code and having people write notes and send them back.
+    of course, people collaborate quite a bit when asking anyone for help on
+    google forums and such -- just posting code and usually people will provide
+    their own code. the nice thing about that is everyone in the world gets to see it,
+    and it doesnt involve as much back and forth.
+    but, working on a project with a team, this process is helpful. it does
+    provide some documentation and communication which helps workflow.
+    it does seem a bit persnickety not to just change a spelling error though
+    and then push the change -- but, it probably does help prevent errors from
+    getting into the code, like what if the person fixing spelling accidentally
+    caused another error. if code itself didn't have to be so precise, the process
+    could perhaps be a bit looser too.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
