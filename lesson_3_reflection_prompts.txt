@@ -59,4 +59,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It's nice to have something that stays working. I say that having many broken
+    projects that Ive broken to add something and then spent time just working in the
+    editor and doing "undo" to figure out how I messed up as I tried to add something.
+    So even with all the pushing and pulling, its less time consuming than that. So I'd 
+    just use the branches in the future.
